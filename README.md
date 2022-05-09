@@ -7,7 +7,7 @@ metadata:
   name: about
    annotations:
     feynmanzhou.github.io/full-name😊: Feynman Zhou（周鹏飞）
-    feynmanzhou.github.io/career💻: Senior Community Manager
+    feynmanzhou.github.io/career💻: Product Manager
     feynmanzhou.github.io/community🥑: CNCF & CDF Ambassador, KubeSphere maintainer, Fluent Member, OpenFunction member, OpenELB member, InfoQ DevOps Editor
     feynmanzhou.github.io/company🏢: Microsoft
     feynmanzhou.github.io/website👨‍💻: https://feynmanzhou.github.io
@@ -15,7 +15,7 @@ metadata:
 spec:
   skills:
   - Kubernetes, Linux, Fluent Bit, DevOps, Serverless/FaaS
-  - Technical Writing, Advocacy and Outreach, Host Events
+  - Technical Writing, Speaking, Advocacy and Outreach, Host Events
 ```
 
 Feynman is a product manager at Microsoft Azure, he is engaging the AKS team and just start to contribute to the secure supply chain projects. Before joining Microsoft, Feynman worked at QingCloud as a senior community manager for 4 years. He helped 3 open-source projects to join CNCF and build the communities from scratch.
